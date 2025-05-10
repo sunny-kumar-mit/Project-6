@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portable Solar Refridgerator - Login</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="auth-container">
+        <div class="auth-card">
+            <h1><i class="fas fa-solar-panel"></i> Portable Solar Refridgerator</h1>
+            <form id="login-form">
+                <div class="form-group">
+                    <label for="username">Username</label>
+                    <input type="text" id="username" required>
+                </div>
+                <div class="form-group">
+                    <label for="password">Password</label>
+                    <input type="password" id="password" required>
+                </div>
+                <div class="form-group">
+                    <label for="ip-address">Fridge IP Address</label>
+                    <input type="text" id="ip-address" placeholder="192.168.1.100" required>
+                </div>
+                <button type="submit" class="btn primary">Login</button>
+                <div class="auth-links">
+                    <a href="register.html">Create an account</a>
+                </div>
+                <div id="login-error" class="error-message"></div>
+            </form>
+        </div>
+    </div>
+    <script src="auth.js"></script>
+</body>
+</html>

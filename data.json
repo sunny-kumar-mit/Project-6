@@ -1,0 +1,77 @@
+{
+    "currentStatus": {
+        "temperature": 4.5,
+        "setpoint": 4,
+        "battery": {
+            "level": 87.32,
+            "health": "Good",
+            "voltage": 12.6,
+            "temperature": 28.5,
+            "timeRemaining": ">24h"
+        },
+        "power": {
+            "source": "solar",
+            "solarInput": 45.2,
+            "consumption": 32.7,
+            "energySaver": false
+        },
+        "compressor": {
+            "running": false,
+            "cyclesToday": 42,
+            "lastCycleDuration": 12.5
+        },
+        "lastUpdate": "2023-06-15T14:30:22Z",
+        "online": true,
+        "overrideMode": false,
+        "doorOpen": false
+    },
+    "history": {
+        "temperature": {
+            "readings": [4.5, 4.3, 4.0, 3.8, 3.5, 3.7, 4.0],
+            "timestamps": ["14:30", "14:15", "14:00", "13:45", "13:30", "13:15", "13:00"]
+        },
+        "energy": {
+            "solar": [45.5, 42.3, 48.1, 51.7, 39.2, 41.8, 44.0],
+            "battery": [12.1, 15.3, 9.8, 7.2, 18.5, 16.2, 13.7]
+        },
+        "activityLog": [
+            {
+                "timestamp": "2023-06-15T14:30:22Z",
+                "temperature": 4.5,
+                "batteryLevel": 87.3,
+                "compressor": false,
+                "powerSource": "solar"
+            },
+            {
+                "timestamp": "2023-06-15T14:27:22Z",
+                "temperature": 4.6,
+                "batteryLevel": 87.1,
+                "compressor": true,
+                "powerSource": "solar"
+            }
+        ]
+    },
+    "settings": {
+        "notifications": true,
+        "tempRange": {
+            "min": -20,
+            "max": 20
+        },
+        "batteryProtection": {
+            "criticalLevel": 10,
+            "overchargeProtection": true
+        },
+        "energySaver": {
+            "enabled": false,
+            "setpointAdjustment": 1
+        }
+    },
+    "maintenance": {
+        "lastService": "2023-05-10",
+        "nextService": "2023-08-10",
+        "compressorCycles": 1042,
+        "batteryAge": "2.5 years"
+    }
+    
+    
+}

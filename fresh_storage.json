@@ -1,0 +1,362 @@
+{
+    "items": [
+        {
+            "name": "Leafy greens (lettuce, spinach)",
+            "type": "vegetable",
+            "tempRange": "0–2°C",
+            "notes": "Store in plastic bags or containers to keep humidity.",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXYx919GJHo09M17nu6YU__lIMm0iXXMOrNQ&s"
+        },
+        {
+            "name": "Broccoli, cauliflower",
+            "type": "vegetable",
+            "tempRange": "0–2°C",
+            "notes": "Keep in perforated bags.",
+            "imageUrl": "https://plushcare.com/hs-fs/hubfs/Images/Blog/Featured/broccoli-vs-cauliflower-differences.jpg?width=1600&height=1067&name=broccoli-vs-cauliflower-differences.jpg"
+        },
+        {
+            "name": "Carrots",
+            "type": "vegetable",
+            "tempRange": "0–2°C",
+            "notes": "Keep them in the crisper, covered.",
+            "imageUrl": "https://www.economist.com/sites/default/files/20180929_BLP506.jpg"
+        },
+        {
+            "name": "Cucumbers",
+            "type": "vegetable",
+            "tempRange": "10–12°C",
+            "notes": "Too cold = watery and damaged. Better outside or in warmer fridge spots.",
+            "imageUrl": "https://theaffordableorganicstore.com/wp-content/uploads/2021/06/1748825496-300x300-1.jpg"
+        },
+        {
+            "name": "Tomatoes",
+            "type": "vegetable",
+            "tempRange": "12–15°C",
+            "notes": "Preferably NOT in fridge (taste changes).",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn_RpV_Nq_aND67ekZG9sOso6gv4AQatx2sw&s"
+        },
+        {
+            "name": "Peppers",
+            "type": "vegetable",
+            "tempRange": "7–10°C",
+            "notes": "In a warmer fridge section.",
+            "imageUrl": "https://www.freshpoint.com/wp-content/uploads/2019/03/freshpoint-produce-101-peppers-4.jpg"
+        },
+        {
+            "name": "Apples",
+            "type": "fruit",
+            "tempRange": "0–4°C",
+            "notes": "Keep away from leafy greens (ethylene gas).",
+            "imageUrl": "https://images.everydayhealth.com/images/diet-nutrition/apples-101-about-1440x810.jpg?sfvrsn=f86f2644_5"
+        },
+        {
+            "name": "Berries (strawberries, blueberries)",
+            "type": "fruit",
+            "tempRange": "0–2°C",
+            "notes": "Store dry, in breathable containers.",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR--UB_9nfw8Dnp429vwh3gDiSQV3AwSdNf7A&s"
+        },
+        {
+            "name": "Grapes",
+            "type": "fruit",
+            "tempRange": "0–2°C",
+            "notes": "Store unwashed in bags.",
+            "imageUrl": "https://www.euroschoolindia.com/blogs/wp-content/uploads/2023/11/exploring-the-nutritional-value-of-grapes-for-children-jpg.webp"
+        },
+        {
+            "name": "Bananas",
+            "type": "fruit",
+            "tempRange": "12–15°C",
+            "notes": "Best kept outside fridge (cold = black skins).",
+            "imageUrl": "https://images.squarespace-cdn.com/content/v1/6274fc685c523f6fec2585ec/58224f3a-a99e-4638-89ef-a3376bbe964f/unsplash-image-DkTuGvgPotA.jpg"
+        },
+        {
+            "name": "Citrus (oranges, lemons)",
+            "type": "fruit",
+            "tempRange": "4–7°C",
+            "notes": "Can last weeks in fridge.",
+            "imageUrl": "https://media.istockphoto.com/id/92134811/photo/variety-of-full-and-halved-citrus-fruit.jpg?s=612x612&w=0&k=20&c=yq7vMrox6llaf7c9nJAr_OTEqXWDe12vKadcIpXeHJ8="
+        },
+        {
+            "name": "Avocados",
+            "type": "fruit",
+            "tempRange": "4–7°C (ripe)",
+            "notes": "Only refrigerate when ripe.",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp05ca_Cf1CqlqghC5DgeX3PNdU-Kup6h1GQ&s"
+        },
+        {
+            "name": "Spinach",
+            "type": "vegetable",
+            "tempRange": "0–2°C",
+            "notes": "High humidity needed",
+            "imageUrl": "https://cheflolaskitchen.com/wp-content/uploads/2023/06/How-to-Blanch-Spinach.jpg"
+        },
+        {
+            "name": "Kale",
+            "type": "vegetable",
+            "tempRange": "0–2°C",
+            "notes": "Keep in plastic bag",
+            "imageUrl": "https://gardenerspath.com/wp-content/uploads/2025/02/How-to-Grow-Kale-Feature.jpg"
+        },
+        {
+            "name": "Lettuce",
+            "type": "vegetable",
+            "tempRange": "0–2°C",
+            "notes": "Moist paper towel helps",
+            "imageUrl": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/03/romaine-lettuce-1296x728-body.jpg?w=1155&h=1528"
+        },
+        {
+            "name": "Cabbage",
+            "type": "vegetable",
+            "tempRange": "0–2°C",
+            "notes": "Very cold and humid",
+            "imageUrl": "https://www.jiomart.com/images/product/original/590002370/cabbage-1-pc-approx-600-g-1000-g-product-images-o590002370-p590002370-0-202409171904.jpg?im=Resize=(420,420)"
+        },
+        {
+            "name": "Celery",
+            "type": "vegetable",
+            "tempRange": "0–2°C",
+            "notes": "Wrap in foil for best storage",
+            "imageUrl": "https://media.npr.org/assets/img/2016/06/13/celery_custom-8f0a770aa8a6091316802b63fb7a0f8e9edcc6ec.jpg"
+        },
+        {
+            "name": "Broccoli",
+            "type": "vegetable",
+            "tempRange": "0–2°C",
+            "notes": "High humidity needed",
+            "imageUrl": "https://www.health.com/thmb/kSuBATf0vDnmAOj3feuHHA3ztBY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-Stocksy_txp48915e00jrw300_Medium_5965806-1b7dc08bfcbc4b748e5f1f27f67894a5.jpg"
+        },
+        {
+            "name": "Cauliflower",
+            "type": "vegetable",
+            "tempRange": "0–2°C",
+            "notes": "Keep in perforated bag",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXo1pTXhMFZ52F1Ydkf5Qd7yrdSOrGfYMIQA&s"
+        },
+        {
+            "name": "Carrots",
+            "type": "vegetable",
+            "tempRange": "0–2°C",
+            "notes": "In crisper drawer",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqAEprHBPrgPkseLGwVsQtHBn10sr_MbDX3g&s"
+        },
+        {
+            "name": "Beets",
+            "type": "vegetable",
+            "tempRange": "0–2°C",
+            "notes": "Remove greens first",
+            "imageUrl": "https://ogden_images.s3.amazonaws.com/www.iamcountryside.com/images/sites/1/2019/03/19091738/beets.jpg"
+        },
+        {
+            "name": "Radishes",
+            "type": "vegetable",
+            "tempRange": "0–2°C",
+            "notes": "Store unwashed",
+            "imageUrl": "https://cdn.zeptonow.com/production/tr:w-640,ar-3000-3000,pr-true,f-auto,q-80/cms/product_variant/38a20030-ec6a-4145-abd6-7cc860939370.jpeg"
+        },
+        {
+            "name": "Zucchini",
+            "type": "vegetable",
+            "tempRange": "7–10°C",
+            "notes": "Don’t keep too cold",
+            "imageUrl": "https://images.squarespace-cdn.com/content/v1/593a9008e6f2e1d2faf911ad/239c044b-dea0-4760-9a50-d37b2e1cbc29/MCMAHON-ZUKES-5.JPG"
+        },
+        {
+            "name": "Eggplant",
+            "type": "vegetable",
+            "tempRange": "10–12°C",
+            "notes": "Sensitive to cold",
+            "imageUrl": "https://cdn.britannica.com/64/143464-050-B0EC6714/Eggplant.jpg"
+        },
+        {
+            "name": "Cucumber",
+            "type": "vegetable",
+            "tempRange": "10–12°C",
+            "notes": "Store at warmer fridge spots",
+            "imageUrl": "https://www.jiomart.com/images/product/original/590000259/cucumber-kheera-500-g-product-images-o590000259-p590000259-0-202411140941.jpg?im=Resize=(420,420)"
+        },
+        {
+            "name": "Peas",
+            "type": "vegetable",
+            "tempRange": "0–2°C",
+            "notes": "Use airtight containers",
+            "imageUrl": "https://ohioline.osu.edu/sites/ohioline/files/imce/Family_and_Consumer_Sciences/HYG-5527-Fig2.jpg"
+        },
+        {
+            "name": "Green beans",
+            "type": "vegetable",
+            "tempRange": "4–7°C",
+            "notes": "Store dry, in bags",
+            "imageUrl": "https://thestayathomechef.com/wp-content/uploads/2024/11/Best-Green-Beans-Ever_Square-1.jpg"
+        },
+        {
+            "name": "Corn (fresh)",
+            "type": "vegetable",
+            "tempRange": "0–2°C",
+            "notes": "Use quickly for best sweetness",
+            "imageUrl": "https://i0.wp.com/live.staticflickr.com/65535/50272380126_88f8be1926_n.jpg?resize=320%2C213&ssl=1"
+        },
+        {
+            "name": "Bell peppers",
+            "type": "vegetable",
+            "tempRange": "7–10°C",
+            "notes": "Can tolerate fridge",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8JKuzySnq4Bef5-JyKJS2NoGuFmJrW1WLZA&s"
+        },
+        {
+            "name": "Mushrooms",
+            "type": "vegetable",
+            "tempRange": "1–2°C",
+            "notes": "In paper bag, not plastic",
+            "imageUrl": "https://www.mushroomcouncil.com/wp-content/uploads/2022/07/03-crimini-2104295336.jpg"
+        },
+        {
+            "name": "Asparagus",
+            "type": "vegetable",
+            "tempRange": "0–2°C",
+            "notes": "Stand in water jar, cover tops",
+            "imageUrl": "https://www.cookincanuck.com/wp-content/uploads/2023/05/How-to-Steam-Asparagus-Square-1200-1-500x500.jpg"
+        },
+        {
+            "name": "Brussels sprouts",
+            "type": "vegetable",
+            "tempRange": "0–2°C",
+            "notes": "Keep in bags, high humidity",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIofRmnWjFRdiyGiufr7r2ZYv0DJdKXREOIg&s"
+        },
+       
+        {
+            "name": "Strawberries",
+            "type": "fruit",
+            "tempRange": "0–2°C",
+            "notes": "Dry in breathable container",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLFlLyCpLSjeo4sgQjvvwct2DZH7he6vWQpw&s"
+        },
+        {
+            "name": "Blueberries",
+            "type": "fruit",
+            "tempRange": "0–2°C",
+            "notes": "Same as strawberries",
+            "imageUrl": "https://3.imimg.com/data3/VM/HM/MY-9146148/fresh-blueberry-500x500.png"
+        },
+        {
+            "name": "Raspberries",
+            "type": "fruit",
+            "tempRange": "0–2°C",
+            "notes": "Very perishable",
+            "imageUrl": "https://drearth.com/wp-content/uploads/Raspberries-iStock-1328141007.jpg"
+        },
+        {
+            "name": "Blackberries",
+            "type": "fruit",
+            "tempRange": "0–2°C",
+            "notes": "Handle gently",
+            "imageUrl": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/03/black-raspberries-1296x728-header.jpg?w=1155&h=1528"
+        },
+        {
+            "name": "Grapes",
+            "type": "fruit",
+            "tempRange": "0–2°C",
+            "notes": "Store unwashed in a bag",
+            "imageUrl": "https://cdn.zeptonow.com/production/ik-seo/tr:w-640,ar-3000-3000,pr-true,f-auto,q-80/cms/product_variant/d8db4792-27d4-4465-872a-cc5be23f540c/Grapes-Green-Seedless.jpeg"
+        },
+        {
+            "name": "Cherries",
+            "type": "fruit",
+            "tempRange": "0–2°C",
+            "notes": "Best kept very cold",
+            "imageUrl": "https://www.pulpnest.in/wp-content/uploads/2023/01/Cherry-imported-chandigarh.webp"
+        },
+        {
+            "name": "Kiwis",
+            "type": "fruit",
+            "tempRange": "4–7°C",
+            "notes": "Refrigerate when ripe",
+            "imageUrl": "https://domf5oio6qrcr.cloudfront.net/medialibrary/6499/eac28f45-62cd-4e71-8d2d-8f9f0ba7088a.jpg"
+        },
+        {
+            "name": "Lemons",
+            "type": "fruit",
+            "tempRange": "4–7°C",
+            "notes": "Can last a month",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTylBy8_0-kG9uREd0aCt9ewJRl6jFbKFIowg&s"
+        },
+        {
+            "name": "Limes",
+            "type": "fruit",
+            "tempRange": "4–7°C",
+            "notes": "Same as lemons",
+            "imageUrl": "https://cdn-prod.medicalnewstoday.com/content/images/articles/304/304448/limes.jpg"
+        },
+        {
+            "name": "Oranges",
+            "type": "fruit",
+            "tempRange": "4–7°C",
+            "notes": "Cool but not freezing",
+            "imageUrl": "https://cdn-prod.medicalnewstoday.com/content/images/articles/272/272782/oranges-in-a-box.jpg"
+        },
+        {
+            "name": "Mandarins",
+            "type": "fruit",
+            "tempRange": "4–7°C",
+            "notes": "Handle like oranges",
+            "imageUrl": "https://static.wixstatic.com/media/943d2f_f8a81a7b345f4468a56ce15f8efd38f6~mv2.jpg/v1/fill/w_520,h_520,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/943d2f_f8a81a7b345f4468a56ce15f8efd38f6~mv2.jpg"
+        },
+        {
+            "name": "Avocados",
+            "type": "fruit",
+            "tempRange": "4–7°C (ripe)",
+            "notes": "Don't refrigerate if unripe",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp05ca_Cf1CqlqghC5DgeX3PNdU-Kup6h1GQ&s"
+        },
+        {
+            "name": "Pineapple",
+            "type": "fruit",
+            "tempRange": "7–10°C",
+            "notes": "Only after cutting",
+            "imageUrl": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/969ddc1cdb5dc643fa74dab393686934"
+        },
+        {
+            "name": "Mangoes",
+            "type": "fruit",
+            "tempRange": "10–12°C",
+            "notes": "Refrigerate only after ripening",
+            "imageUrl": "https://cdn.siasat.com/wp-content/uploads/2022/04/Mangoes.png"
+        },
+        {
+            "name": "Papayas",
+            "type": "fruit",
+            "tempRange": "10–12°C",
+            "notes": "Same as mangoes",
+            "imageUrl": "https://blog.plantwise.org/wp-content/uploads/sites/7/2024/03/4229124857_fa11a3ef08_o-scaled.jpg"
+        },
+        {
+            "name": "Watermelon (whole)",
+            "type": "fruit",
+            "tempRange": "10–12°C",
+            "notes": "Chill after cutting",
+            "imageUrl": "https://www.thespruceeats.com/thmb/BDlv0gfycFbWNKpZHFY6LO6JM30=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-127741243-5892285b3df78caebc8da2e8.jpg"
+        },
+        {
+            "name": "Cantaloupe (whole)",
+            "type": "fruit",
+            "tempRange": "10–12°C",
+            "notes": "Refrigerate once ripe or cut",
+            "imageUrl": "https://www.shutterstock.com/shutterstock/photos/2496147255/display_1500/stock-photo-whole-and-half-cut-cantaloupe-or-melon-cucumis-melo-fruit-2496147255.jpg"
+        },
+        {
+            "name": "Peaches",
+            "type": "fruit",
+            "tempRange": "0–4°C (ripe)",
+            "notes": "Refrigerate only when ripe",
+            "imageUrl": "https://www.flushinghospital.org/newsletter/wp-content/uploads/2021/07/GettyImages-1200767905.jpg"
+        },
+        {
+            "name": "Plums",
+            "type": "fruit",
+            "tempRange": "0–4°C (ripe)",
+            "notes": "Same as peaches",
+            "imageUrl": "https://www.froghollow.com/cdn/shop/articles/santa_rosa_1_lr_sq_d32c08e2-0cf8-445c-abf7-8681e5b6d852.jpg?v=1565715872"
+        }
+    ]
+}

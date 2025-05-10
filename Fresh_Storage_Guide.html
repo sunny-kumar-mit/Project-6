@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fresh Storage Guide</title>
+    <link rel="stylesheet" href="fresh_storage.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="background-animation"></div>
+    <div class="floating-fruits"></div>
+    
+    <header class="animate__animated animate__fadeInDown">
+        <div class="container">
+            <div class="header-content">
+                <h1>Fresh Storage Guide</h1>
+                <p>Ideal temperatures for fruits & vegetables</p>
+                <div class="header-icons">
+                    <i class="fas fa-apple-alt"></i>
+                    <i class="fas fa-carrot"></i>
+                    <i class="fas fa-leaf"></i>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="general-info animate__animated animate__fadeIn animate__delay-1s">
+            <div class="temperature-gauge">
+                <div class="gauge-fill"></div>
+                <div class="gauge-marker"></div>
+            </div>
+            <h2><i class="fas fa-snowflake"></i> General Refrigerator Temperature</h2>
+            <p><strong>Main fridge compartment:</strong> <span class="temp">0°C to 4°C (32°F to 39°F)</span></p>
+        </section>
+
+        <div class="filter-controls animate__animated animate__fadeIn animate__delay-1s">
+            <div class="search-container">
+                <i class="fas fa-search search-icon"></i>
+                <input type="text" id="search" placeholder="Search fruits or vegetables...">
+                <div class="search-pulse"></div>
+            </div>
+            <div class="filter-buttons">
+                <button class="active" data-filter="all">All</button>
+                <button data-filter="vegetable">Vegetables</button>
+                <button data-filter="fruit">Fruits</button>
+            </div>
+        </div>
+
+        <section id="items-container" class="animate__animated animate__fadeIn animate__delay-2s">
+            <!-- Items will be loaded here by JavaScript -->
+        </section>
+
+        <section class="tips animate__animated animate__fadeIn animate__delay-2s">
+            <div class="tips-header">
+                <h2><i class="fas fa-lightbulb"></i> Storage Tips</h2>
+                <div class="lightbulb-animation">
+                    <div class="light-rays"></div>
+                </div>
+            </div>
+            <ul>
+                <li><strong>Use the crisper drawer</strong> for veggies and fruits — it keeps humidity higher.</li>
+                <li><strong>Separate fruits and vegetables</strong> when possible because many fruits release <strong>ethylene gas</strong> that speeds up ripening (and spoiling) of vegetables.</li>
+                <li>Store leafy greens in plastic bags or containers to maintain humidity.</li>
+                <li>Keep ethylene-producing fruits (like apples) away from sensitive vegetables.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer class="animate__animated animate__fadeIn animate__delay-3s">
+        <div class="container">
+            <p>© <span id="current-year"></span> All Rights Reserved By Sunny | Fresh Storage Guide | For optimal food freshness</p>
+            <div class="footer-icons">
+                <i class="fas fa-thermometer-half"></i>
+                <i class="fas fa-seedling"></i>
+                <i class="fas fa-ice-cream"></i>
+            </div>
+        </div>
+    </footer>
+
+    <script src="fresh_storage_script.js"></script>
+</body>
+</html>
